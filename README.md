@@ -27,10 +27,11 @@ The Home Intrusion Detection System is an Arduino Uno-based security project tha
 3. Unauthorized RFID triggers buzzer alert
 
 ## Demo Video
-(Add your video link here)
+https://github.com/user-attachments/assets/2fa394fc-1bbd-4e70-86ba-378a6031cad4
 
 ## Images
-(Add your images below)
+<img width="1170" height="643" alt="connection jpg" src="https://github.com/user-attachments/assets/a5763227-d0a1-4af0-80e1-cd9400e62161" />
+<img width="1170" height="573" alt="working jpg" src="https://github.com/user-attachments/assets/827b4ee8-e4ac-4ab4-b4a2-fd29765b38e0" />
 
 ## Future Improvements
 - GSM alert system
@@ -38,12 +39,6 @@ The Home Intrusion Detection System is an Arduino Uno-based security project tha
 - Camera integration
 - IoT cloud monitoring
 
-https://github.com/user-attachments/assets/2fa394fc-1bbd-4e70-86ba-378a6031cad4
-
-<img width="1170" height="643" alt="connection jpg" src="https://github.com/user-attachments/assets/a5763227-d0a1-4af0-80e1-cd9400e62161" />
-<img width="1170" height="573" alt="working jpg" src="https://github.com/user-attachments/assets/827b4ee8-e4ac-4ab4-b4a2-fd29765b38e0" />
-
-https://github.com/user-attachments/assets/d480c7d6-911d-49a4-8cf9-17ee70c1d738
 
 
 
